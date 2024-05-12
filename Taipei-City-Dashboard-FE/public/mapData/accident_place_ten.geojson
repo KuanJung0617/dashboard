@@ -1,0 +1,117 @@
+{
+	"type": "FeatureCollection",
+	"crs": {
+		"type": "name",
+		"properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" }
+	},
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"occur_time": "2019-01-02T08:37:00",
+				"type": "A2",
+				"location": "台北市文山區羅斯福路四段"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.537153954531, 25.010488534989]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"occur_time": "2019-01-09T10:59:00",
+				"type": "A2",
+				"location": "台北市中山區北安路"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.532309679521, 25.078026573732]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"occur_time": "2019-02-26T00:40:00",
+				"type": "A3",
+				"location": "台北市中正區市民大道一段"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.518465532518, 25.048332107222]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"occur_time": "2019-05-23T16:20:00",
+				"type": "A3",
+				"location": "台北市大安區和平東路三段"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.553413402712, 25.023397223592]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"occur_time": "2019-06-28T08:00:00",
+				"type": "A3",
+				"location": "台北市大安區市民大道四段"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.546947777205, 25.044937351016]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"occur_time": "2019-01-18T09:54:00",
+				"type": "A2",
+				"location": "台北市文山區木柵路一段"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.546486327736, 24.986866670755]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"occur_time": "2019-01-22T16:00:00",
+				"type": "A3",
+				"location": "台北市大同區承德路三段"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.520518072509, 25.076422435575]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"occur_time": "2019-01-23T08:31:00",
+				"type": "A2",
+				"location": "台北市士林區延平北路六段"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.501203388639, 25.090418154271]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"occur_time": "2019-01-23T10:30:00",
+				"type": "A3",
+				"location": "台北市中山區建國北路一段"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [121.536693633881, 25.049531583126]
+			}
+		}		
+	]
+}
